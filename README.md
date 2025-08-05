@@ -1,6 +1,6 @@
 <!-- Bannière ou GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/474x/12/11/32/1211329789c0fdcafbfa1e26b899ef50.jpg" width="600" alt="Coding Wallpaper">
+  <img src="https://i.pinimg.com/474x/12/11/32/1211329789c0fdcafbfa1e26b899ef50.jpg" width="100" alt="Coding Wallpaper">
 </p>
 
 <h1 align="center">👋 Salut, je suis Paul-Emmanuel (@Paul04sho)</h1>
@@ -24,7 +24,7 @@
 ## 🛠️ Langages et Outils
 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github,vscode" />
 </p>
 
 ---
@@ -41,7 +41,8 @@
 ## 📊 Stats GitHub
 
 <p align="center">
-  [![Paul-Em. GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul04sho)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=Paul04sho&show_icons=true&theme=tokyonight" alt="Stats GitHub" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul04sho&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
