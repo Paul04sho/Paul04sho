@@ -1,6 +1,6 @@
 <!-- Bannière ou GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/474x/12/11/32/1211329789c0fdcafbfa1e26b899ef50.jpg" width="100" alt="Coding Wallpaper">
+  <img src="https://i.pinimg.com/474x/12/11/32/1211329789c0fdcafbfa1e26b899ef50.jpg" width="300" alt="Coding Wallpaper">
 </p>
 
 <h1 align="center">👋 Salut, je suis Paul-Emmanuel (@Paul04sho)</h1>
