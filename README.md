@@ -1,6 +1,6 @@
 <!-- Bannière ou GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/474x/12/11/32/1211329789c0fdcafbfa1e26b899ef50.jpg" width="300" alt="Coding Wallpaper">
+  <img src="https://i.pinimg.com/474x/12/11/32/1211329789c0fdcafbfa1e26b899ef50.jpg" width="450" alt="Coding Wallpaper">
 </p>
 
 <h1 align="center">👋 Salut, je suis Paul-Emmanuel (@Paul04sho)</h1>
@@ -35,6 +35,7 @@
 | ------ | ----------- | ---- |
 | 📝 **CRL Last Course Challenge** |Qui provient  d'une formation de Kevin Powell| [Voir](https://paul04sho.github.io/Kevin-Powell-CRL-Course-Last-Challenge/) |
 | 🌐 **Landing Page Abstract** | Page d’accueil interactive | [Live](https://paul04sho.github.io/Frontend-Abstract-Landing-Page/) |
+| 💼 **Formulaire Roadmap JS** | Formulaire avec des fonctionnalités JavaScript | [Live](https://paul04sho.github.io/Formulaire-Roadmap.sh/)
 
 ---
 
