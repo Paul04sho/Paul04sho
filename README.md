@@ -16,7 +16,7 @@
 - 👀 **Intérêts** : Développement web, création d’applications et design UI
 - 🌱 **J'apprends actuellement** : HTML, CSS, JavaScript, C, Python
 - 🤝 **Ouvert à la collaboration** sur des projets motivants et créatifs
-- 📫 **Contact** : [paulthoume905@gmail.com](mailto:paulthoume905@gmail.com)
+- 📫 **Contact** : [paulthoume905@gmail.com](mailto:paultchoume905@gmail.com)
 - ⚡ **Fun fact** : J’ai déjà codé un jeu Tic-Tac-Toe et plusieurs sites esthétiques
 
 ---
