@@ -38,6 +38,7 @@
 | 🌐 **Landing Page Abstract** | Page d’accueil interactive | [Voir](https://paul04sho.github.io/Frontend-Abstract-Landing-Page/) |
 | 💼 **Formulaire Roadmap JS** | Formulaire avec des fonctionnalités JavaScript | [Voir](https://paul04sho.github.io/Formulaire-Roadmap.sh/)
 | 🖥️ **Pulse project** | Challenge Frontend practice | [Voir](https://paul04sho.github.io/Pulse-Landing-Page/)
+| 🧠 **Calculatrice** | Projet de niveau Junior incluant du JavaScript| [Voir](https://paul04sho.github.io/Projet-calculatrice/)
 
 ---
 
