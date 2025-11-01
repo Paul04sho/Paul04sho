@@ -11,13 +11,17 @@
 
 ---
 
-##   À propos de moi
+## 🚀 À propos de moi
 
-- 👀 **Intérêts** : Développement web, création d’applications et design UI
-- 🌱 **J'apprends actuellement** : HTML, CSS, JavaScript, C, Python
-- 🤝 **Ouvert à la collaboration** sur des projets motivants et créatifs
-- 📫 **Contact** : [paultchoume905@gmail.com](mailto:paultchoume905@gmail.com)
-- ⚡ **Fun fact** : J’ai déjà codé un jeu Tic-Tac-Toe et plusieurs sites esthétiques
+- **Intérêts** : Développement web, création d’applications et design UI
+  
+-  **J'apprends actuellement** : HTML, CSS, JavaScript, C, Python
+   
+-  **Ouvert à la collaboration** sur des projets motivants et créatifs
+  
+-  **Contact** : [paultchoume905@gmail.com](mailto:paultchoume905@gmail.com)
+  
+-  **Fun fact** : J’ai déjà codé un jeu Tic-Tac-Toe et plusieurs sites esthétiques
 
 ---
 
