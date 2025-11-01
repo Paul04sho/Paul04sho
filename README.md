@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/474x/12/11/32/1211329789c0fdcafbfa1e26b899ef50.jpg" width="450" alt="Coding Wallpaper">
 </p>
 
-<h1 align="center">👋 Salut, je suis Paul-Emmanuel (@Paul04sho)</h1>
+<h1 align="center"> 👋🏾 Salut, je suis Paul-Emmanuel </h1>
 
 <p align="center">
   💻 Développeur passionné par le web, le code et la création de projets interactifs
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
 - 👀 **Intérêts** : Développement web, création d’applications et design UI
 - 🌱 **J'apprends actuellement** : HTML, CSS, JavaScript, C, Python
@@ -34,11 +34,11 @@
 | Projet | Description | Lien |
 | ------ | ----------- | ---- |
 |   **MON PORTFOLIO**  | Regroupe mes meilleurs projets | [Voir](https://paul04sho.github.io/My-Website/) |
-| 📝 **CRL Last Course Challenge** | Qui provient  d'une formation de Kevin Powell| [Voir](https://paul04sho.github.io/Kevin-Powell-CRL-Course-Last-Challenge/) |
-| 🌐 **Landing Page Abstract** | Page d’accueil interactive | [Voir](https://paul04sho.github.io/Frontend-Abstract-Landing-Page/) |
-| 💼 **Formulaire Roadmap JS** | Formulaire avec des fonctionnalités JavaScript | [Voir](https://paul04sho.github.io/Formulaire-Roadmap.sh/)
-| 🖥️ **Pulse project** | Challenge Frontend practice | [Voir](https://paul04sho.github.io/Pulse-Landing-Page/)
-| 🧠 **Calculatrice** | Projet de niveau Junior incluant du JavaScript| [Voir](https://paul04sho.github.io/Projet-calculatrice/)
+| **CRL Last Course Challenge** | Qui provient  d'une formation de Kevin Powell| [Voir](https://paul04sho.github.io/Kevin-Powell-CRL-Course-Last-Challenge/) |
+| **Landing Page Abstract** | Page d’accueil interactive | [Voir](https://paul04sho.github.io/Frontend-Abstract-Landing-Page/) |
+| **Formulaire Roadmap JS** | Formulaire avec des fonctionnalités JavaScript | [Voir](https://paul04sho.github.io/Formulaire-Roadmap.sh/)
+| **Pulse project** | Challenge Frontend practice | [Voir](https://paul04sho.github.io/Pulse-Landing-Page/)
+| **Calculatrice** | Projet de niveau Junior incluant du JavaScript| [Voir](https://paul04sho.github.io/Projet-calculatrice/)
 
 ---
 
