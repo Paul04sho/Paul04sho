@@ -11,7 +11,7 @@
 
 ---
 
-##  À propos de moi
+##   À propos de moi
 
 - 👀 **Intérêts** : Développement web, création d’applications et design UI
 - 🌱 **J'apprends actuellement** : HTML, CSS, JavaScript, C, Python
