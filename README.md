@@ -38,11 +38,8 @@
 | Projet | Description | Lien |
 | ------ | ----------- | ---- |
 |   **MON PORTFOLIO**  | Regroupe mes meilleurs projets | [Voir](https://paul04sho.github.io/My-Website/) |
-| **CRL Last Course Challenge** | Qui provient  d'une formation de Kevin Powell| [Voir](https://paul04sho.github.io/Kevin-Powell-CRL-Course-Last-Challenge/) |
-| **Landing Page Abstract** | Page d’accueil interactive | [Voir](https://paul04sho.github.io/Frontend-Abstract-Landing-Page/) |
-| **Formulaire Roadmap JS** | Formulaire avec des fonctionnalités JavaScript | [Voir](https://paul04sho.github.io/Formulaire-Roadmap.sh/)
-| **Pulse project** | Challenge Frontend practice | [Voir](https://paul04sho.github.io/Pulse-Landing-Page/)
-| **Calculatrice** | Projet de niveau Junior incluant du JavaScript| [Voir](https://paul04sho.github.io/Projet-calculatrice/)
+| **Calculatrice** | Projet de niveau Junior incluant du JavaScript| [Voir](https://paul04sho.github.io/Projet-calculatrice/) |
+| **BleuRose** | Contribué à la création d'une page web en rapport avec un évènement organisé au sein de mon école. | [Voir](https://ekriley-ci.github.io/novembre-bleu-octobre-rose/) |
 
 ---
 
