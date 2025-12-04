@@ -37,9 +37,10 @@
 
 | Projet | Description | Lien |
 | ------ | ----------- | ---- |
-|   **MON PORTFOLIO**  | Regroupe mes meilleurs projets | [Voir](https://paul04sho.github.io/My-Website/) |
+|   **MON PORTFOLIO**  | Aperçu de mes travaux | [Voir](https://paul04sho.github.io/My-Website/) |
 | **Calculatrice** | Projet de niveau Junior incluant du JavaScript| [Voir](https://paul04sho.github.io/Projet-calculatrice/) |
 | **BleuRose** | Contribué à la création d'une page web en rapport avec un évènement organisé au sein de mon école. | [Voir](https://ekriley-ci.github.io/novembre-bleu-octobre-rose/) |
+| **Snake Game** | Codé un jeu du serpent disponible sur PC | [Voir](https://paul04sho.github.io/jeu-du-serpent/)
 
 ---
 
