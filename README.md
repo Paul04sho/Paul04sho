@@ -19,7 +19,7 @@
    
 -  **Ouvert à la collaboration** sur des projets motivants et créatifs
   
--  **Contact** : [paultchoume905@gmail.com](mailto:paultchoume905@gmail.com)
+-  **Contact** : [deveyesunlocked@gmail.com](mailto:deveyesunlocked@gmail.com)
   
 -  **Fun fact** : J’ai déjà codé un jeu Tic-Tac-Toe et plusieurs sites esthétiques
 
@@ -37,7 +37,7 @@
 
 | Projet | Description | Lien |
 | ------ | ----------- | ---- |
-|   **MON PORTFOLIO**  | Aperçu de mes travaux | [Voir](https://paul04sho.github.io/My-Website/) |
+|   **MON PORTFOLIO**  | Aperçu de mes travaux | [Voir](http://paul-em.com) |
 | **Calculatrice** | Projet de niveau Junior incluant du JavaScript| [Voir](https://paul04sho.github.io/Projet-calculatrice/) |
 | **BleuRose** | Contribué à la création d'une page web en rapport avec un évènement organisé au sein de mon école. | [Voir](https://ekriley-ci.github.io/novembre-bleu-octobre-rose/) |
 | **Snake Game** | Codé un jeu du serpent disponible sur PC | [Voir](https://paul04sho.github.io/jeu-du-serpent/)
